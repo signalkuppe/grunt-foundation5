@@ -1,6 +1,7 @@
 # Grunt Foundation 5
 
 This is a template to start your own project that uses Grunt, Foundation5 and compass
+Pages are built with [grunt-html-builder](https://github.com/aaaristo/grunt-html-builder)
 
 ## Requirements
 
