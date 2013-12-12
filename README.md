@@ -15,7 +15,10 @@ You'll need to have the following items installed before continuing.
 
 ```bash
 git https://github.com/signalkuppe/grunt-foundation5.git
-npm install && bower install && grunt && grunt listen
+npm install
+bower install
+grunt
+grunt listen
 ```
 
 Now you have a web server listening to your changes at 127.0.0.1:8080
