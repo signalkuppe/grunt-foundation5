@@ -1,6 +1,7 @@
 # Grunt Foundation 5
 
-This is a template to start your own project that uses Grunt, Foundation5 and compass
+This is a template to start your own project using Grunt, Foundation5 and Compass.
+
 Pages are built with [grunt-html-builder](https://github.com/aaaristo/grunt-html-builder)
 
 ## Requirements
@@ -24,7 +25,7 @@ grunt listen
 Now you have a web server listening to your changes at 127.0.0.1:8080
 And you're set!
 
-Change everything in your templates or sass files and everything will be compiled on the fly.
+Make some changes to your templates or sass files and everything will be compiled on the fly.
 
 see [grunt-html-builder](https://github.com/aaaristo/grunt-html-builder) for the proper documentation
 
