@@ -15,7 +15,7 @@ You'll need to have the following items installed before continuing.
 ## Quickstart
 
 ```bash
-git https://github.com/signalkuppe/grunt-foundation5.git
+git clone https://github.com/signalkuppe/grunt-foundation5.git
 npm install
 bower install
 grunt
