@@ -29,3 +29,4 @@ Make some changes to your templates or sass files and everything will be compile
 
 see [grunt-html-builder](https://github.com/aaaristo/grunt-html-builder) for the proper documentation
 
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/signalkuppe/grunt-foundation5/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
