@@ -23,8 +23,7 @@ module.exports = function(grunt) {
     copy: {
       client: {
          files: [
-                  {expand: true, cwd: 'src/client/', src: ['**'], dest: 'dist/'},
-                  {expand: true, cwd: 'bower_components', src: ['**'], dest: 'dist/bower_components/'}
+                  {expand: true, cwd: 'src/client/', src: ['**'], dest: 'dist/'}
          ],
       }
     },
